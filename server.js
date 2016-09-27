@@ -18,7 +18,7 @@ content:`<p>
         This is the content for my First Article. This is the content for my First Article. This is the content for my First Article. This is the content for my First Article. This is the content for my First Article. This is the content for my First Article.
     </p>
     <p>
-        This is the content for my First Article. This is the content for my First Article. This is the content for my First Article. This is the content for my First Article. This is the content for my First Article. This is the content for my First Article.yyyyyyy
+        This is the content for my First Article. This is the content for my First Article. This is the content for my First Article. This is the content for my First Article. This is the content for my First Article. This is the content for my First Article.
     </p>`
 
 },
@@ -27,7 +27,7 @@ title: 'Article Two | Sam Alphonse',
 heading: 'Article Two',
 date:'Septemeber 10, 2016',
 content:`<p>
-        This is the content for my Second Article.yyyyyy
+        This is the content for my Second Article.
         </p>`
 },
 'Article-three' : {
@@ -35,7 +35,7 @@ content:`<p>
 heading: 'Article Three',
 date:'Septemeber 15, 2016',
 content:`<p>
-        This is the content for my Third Article.yyyyyyy
+        This is the content for my Third Article.
         </p>`
 },
 };

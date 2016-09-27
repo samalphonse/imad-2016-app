@@ -27,7 +27,7 @@ title: 'Article Two | Sam Alphonse',
 heading: 'Article Two',
 date:'Septemeber 10, 2016',
 content:`<p>
-        This is the content for my Second Article. new
+        This is the content for my Second Article.
         </p>`
 },
 'Article-three' : {

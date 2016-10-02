@@ -111,7 +111,7 @@ app.get('/ui/face2.jpg', function (req, res) {
 });
 
 var names = [];
-app.get('submit-name/:name', function (req, res) {
+app.get('/submit-name/:name', function (req, res) {
     // get the name from the request
     
     var name =req.params.name;
